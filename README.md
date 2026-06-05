@@ -88,3 +88,21 @@ I gained hands-on experience configuring interfaces, verifying connectivity, tro
 
 ## Screenshots
 I also learned how to verify interface status, confirm connectivity, and troubleshoot basic routing issues using Cisco IOS commands.
+
+## Screenshots
+
+### Interface Status and Configuration
+
+![Cafe Router Configuration](screenshots/Screenshot%202026-06-05%20130657.png)
+
+### Point-to-Point Link Configuration
+
+![Point-to-Point Link](screenshots/Screenshot%202026-06-05%20130723.png)
+
+### Fallout Router Configuration
+
+![Fallout Router Configuration](screenshots/Screenshot%202026-06-05%20130757.png)
+
+### Interface Verification
+
+![Interface Verification](screenshots/Screenshot%202026-06-05%20130816.png)
